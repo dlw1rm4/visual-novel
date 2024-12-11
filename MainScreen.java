@@ -3,7 +3,7 @@ import javax.swing.*;
 
 public class MainScreen extends JFrame{
     public MainScreen() {
-        this.setTitle("Visual Novel");
+        this.setTitle("Visual Novel Game");
 		this.setSize(1000, 500);
 
         JPanel panel = new JPanel();
